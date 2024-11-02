@@ -23,8 +23,3 @@ This project displays a simple profile grid layout using HTML and CSS. Each prof
 
 - Implementing dynamic data loading for profiles.
 - Adding hover and animation effects on the "Add Friend" button.
-
-## Screenshots
-
-![Robot Profile Grid](screenshot.png) <!-- Add a screenshot file in your project directory for reference -->
-
